@@ -110,7 +110,7 @@ export default function Home() {
       </div>
 
       <header className="site-nav">
-        <a href="#top" aria-label="PuraMed home" onClick={closeMobile}>
+        <a className="brand-link" href="#top" aria-label="PuraMed home" onClick={closeMobile}>
           <Mark />
         </a>
         <nav className="desktop-nav" aria-label="Main navigation">
