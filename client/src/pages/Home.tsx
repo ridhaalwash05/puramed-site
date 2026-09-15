@@ -155,7 +155,7 @@ export default function Home() {
           <div className="hero-note"><span className="note-rule" /> New ideas for an old question: <strong>who gets to be well?</strong></div>
         </div>
         <div className="hero-art-wrap">
-          <img className="hero-art" src="/manus-storage/puramed-hero_70d11bcc.png" alt="Abstract layered illustration of people, care, and connected health systems" />
+          <img className="hero-art" src="/manus-storage/puramed-hero-blue_1cca2653.png" alt="Blue flowing river and butterflies representing the butterfly effect, knowledge, and connected health" />
           <div className="hero-art-caption"><span>01 / 04</span><span>Care is collective.</span></div>
           <div className="hero-stamp"><Sparkles size={16} /><span>Ideas in<br />motion</span></div>
         </div>
