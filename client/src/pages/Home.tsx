@@ -71,11 +71,7 @@ const stories = [
 function Mark({ light = false }: { light?: boolean }) {
   return (
     <div className="brand-mark" aria-hidden="true">
-      <span className={light ? "mark-tile light" : "mark-tile"}>
-        <span className="mark-line mark-line-one" />
-        <span className="mark-line mark-line-two" />
-        <span className="mark-line mark-line-three" />
-      </span>
+      <img className="logo-symbol" src="/manus-storage/puramed-logo-symbol-clean_aeca942b.png" alt="" />
       <span className={light ? "brand-name light" : "brand-name"}>PuraMed</span>
     </div>
   );
